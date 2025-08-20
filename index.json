@@ -1,50 +1,111 @@
 [
   {
-    "id": "car",
-    "name": "Car",
-    "tags": ["car", "vehicle", "auto"],
-    "url": "https://raw.githubusercontent.com/priyamshrivastava-rgb/Illustration-spinny/main/images/car.png"
+    "id": "ac",
+    "name": "AC",
+    "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/AC.svg",
+    "tags": ["ac", "air conditioner", "cooling", "car ac", "airflow"]
+  },
+  {
+    "id": "battery",
+    "name": "Battery",
+    "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Battery.svg",
+    "tags": ["battery", "power", "electric", "energy", "car battery"]
   },
   {
     "id": "bell",
     "name": "Bell",
-    "tags": ["bell", "notification", "alert"],
-    "url": "https://raw.githubusercontent.com/priyamshrivastava-rgb/Illustration-spinny/main/images/bell.png"
+    "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Bell.svg",
+    "tags": ["bell", "notification", "alert", "ping", "reminder", "chime"]
   },
   {
-    "id": "wallet",
-    "name": "Wallet",
-    "tags": ["wallet", "money", "payment"],
-    "url": "https://raw.githubusercontent.com/priyamshrivastava-rgb/Illustration-spinny/main/images/wallet.png"
-  },
-  {
-    "id": "walletmoney",
-    "name": "Wallet with Money",
-    "tags": ["wallet", "money", "cash"],
-    "url": "https://raw.githubusercontent.com/priyamshrivastava-rgb/Illustration-spinny/main/images/walletmoney.png"
-  },
-  {
-    "id": "toll",
-    "name": "Toll",
-    "tags": ["toll", "road", "fee"],
-    "url": "https://raw.githubusercontent.com/priyamshrivastava-rgb/Illustration-spinny/main/images/toll.png"
-  },
-  {
-    "id": "light",
-    "name": "Light",
-    "tags": ["light", "bulb", "idea"],
-    "url": "https://raw.githubusercontent.com/priyamshrivastava-rgb/Illustration-spinny/main/images/light.png"
-  },
-  {
-    "id": "insurance",
-    "name": "Insurance",
-    "tags": ["insurance", "shield", "protection"],
-    "url": "https://raw.githubusercontent.com/priyamshrivastava-rgb/Illustration-spinny/main/images/insurance.png"
+    "id": "car",
+    "name": "Car",
+    "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Car.svg",
+    "tags": ["car", "vehicle", "auto", "transport", "sedan", "drive"]
   },
   {
     "id": "caution",
     "name": "Caution",
-    "tags": ["caution", "warning", "alert"],
-    "url": "https://raw.githubusercontent.com/priyamshrivastava-rgb/Illustration-spinny/main/images/caution.png"
+    "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Caution.svg",
+    "tags": ["caution", "warning", "danger", "alert", "sign", "traffic cone"]
+  },
+  {
+    "id": "checkup",
+    "name": "Checkup",
+    "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Checkup.svg",
+    "tags": ["checkup", "inspection", "review", "test", "health", "service"]
+  },
+  {
+    "id": "denting-painting",
+    "name": "Denting Painting",
+    "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Denting%20Painting.svg",
+    "tags": ["denting", "painting", "repair", "car service", "body shop"]
+  },
+  {
+    "id": "flash",
+    "name": "Flash",
+    "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Flash.svg",
+    "tags": ["flash", "lightning", "power", "electric", "fast", "energy"]
+  },
+  {
+    "id": "insurance",
+    "name": "Insurance",
+    "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Insurance.svg",
+    "tags": ["insurance", "safety", "protection", "policy", "security", "coverage"]
+  },
+  {
+    "id": "periodic",
+    "name": "Periodic",
+    "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Periodic.svg",
+    "tags": ["periodic", "calendar", "schedule", "routine", "service", "plan"]
+  },
+  {
+    "id": "pollution",
+    "name": "Pollution",
+    "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Pollution.svg",
+    "tags": ["pollution", "smoke", "emission", "environment", "air", "eco"]
+  },
+  {
+    "id": "spinny-logo",
+    "name": "Spinny Logo",
+    "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Spinny%20logo.svg",
+    "tags": ["spinny", "logo", "brand", "symbol", "identity"]
+  },
+  {
+    "id": "suspension",
+    "name": "Suspension",
+    "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Suspension.svg",
+    "tags": ["suspension", "shock absorber", "spring", "wheel", "ride", "comfort"]
+  },
+  {
+    "id": "toll",
+    "name": "Toll",
+    "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Toll.svg",
+    "tags": ["toll", "barrier", "highway", "payment", "road", "gate"]
+  },
+  {
+    "id": "toll2",
+    "name": "Toll 2",
+    "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Toll2.svg",
+    "tags": ["toll", "car toll", "payment", "road tax", "entry", "fee"]
+  },
+  {
+    "id": "wallet",
+    "name": "Wallet",
+    "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Wallet.svg",
+    "tags": ["wallet", "money", "payment", "cash", "finance", "purse"]
+  },
+  {
+    "id": "wallet-money",
+    "name": "Wallet Money",
+    "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Wallet_money.svg",
+    "tags": ["wallet", "money", "cash", "coins", "finance", "pocket"]
+  },
+  {
+    "id": "wheel",
+    "name": "Wheel",
+    "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Wheel.svg",
+    "tags": ["wheel", "tyre", "rim", "car part", "rotate", "motion"]
   }
 ]
+
