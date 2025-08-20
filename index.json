@@ -1,0 +1,50 @@
+[
+  {
+    "id": "car",
+    "name": "Car",
+    "tags": ["car", "vehicle", "auto"],
+    "url": "https://raw.githubusercontent.com/priyamshrivastava-rgb/Illustration-spinny/main/images/car.png"
+  },
+  {
+    "id": "bell",
+    "name": "Bell",
+    "tags": ["bell", "notification", "alert"],
+    "url": "https://raw.githubusercontent.com/priyamshrivastava-rgb/Illustration-spinny/main/images/bell.png"
+  },
+  {
+    "id": "wallet",
+    "name": "Wallet",
+    "tags": ["wallet", "money", "payment"],
+    "url": "https://raw.githubusercontent.com/priyamshrivastava-rgb/Illustration-spinny/main/images/wallet.png"
+  },
+  {
+    "id": "walletmoney",
+    "name": "Wallet with Money",
+    "tags": ["wallet", "money", "cash"],
+    "url": "https://raw.githubusercontent.com/priyamshrivastava-rgb/Illustration-spinny/main/images/walletmoney.png"
+  },
+  {
+    "id": "toll",
+    "name": "Toll",
+    "tags": ["toll", "road", "fee"],
+    "url": "https://raw.githubusercontent.com/priyamshrivastava-rgb/Illustration-spinny/main/images/toll.png"
+  },
+  {
+    "id": "light",
+    "name": "Light",
+    "tags": ["light", "bulb", "idea"],
+    "url": "https://raw.githubusercontent.com/priyamshrivastava-rgb/Illustration-spinny/main/images/light.png"
+  },
+  {
+    "id": "insurance",
+    "name": "Insurance",
+    "tags": ["insurance", "shield", "protection"],
+    "url": "https://raw.githubusercontent.com/priyamshrivastava-rgb/Illustration-spinny/main/images/insurance.png"
+  },
+  {
+    "id": "caution",
+    "name": "Caution",
+    "tags": ["caution", "warning", "alert"],
+    "url": "https://raw.githubusercontent.com/priyamshrivastava-rgb/Illustration-spinny/main/images/caution.png"
+  }
+]
