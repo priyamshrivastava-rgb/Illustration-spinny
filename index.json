@@ -3,109 +3,108 @@
     "id": "ac",
     "name": "AC",
     "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/AC.svg",
-    "tags": ["ac", "air conditioner", "cooling", "car ac", "airflow"]
+    "tags": ["ac", "air conditioner", "cooling", "car ac", "airflow", "vent"]
   },
   {
     "id": "battery",
     "name": "Battery",
     "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Battery.svg",
-    "tags": ["battery", "power", "electric", "energy", "car battery"]
+    "tags": ["battery", "power", "electric", "energy", "car battery", "charge"]
   },
   {
     "id": "bell",
     "name": "Bell",
     "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Bell.svg",
-    "tags": ["bell", "notification", "alert", "ping", "reminder", "chime"]
+    "tags": ["bell", "notification", "alert", "ping", "reminder", "chime", "alarm"]
   },
   {
     "id": "car",
     "name": "Car",
     "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Car.svg",
-    "tags": ["car", "vehicle", "auto", "transport", "sedan", "drive"]
+    "tags": ["car", "vehicle", "auto", "transport", "sedan", "drive", "automobile"]
   },
   {
     "id": "caution",
     "name": "Caution",
     "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Caution.svg",
-    "tags": ["caution", "warning", "danger", "alert", "sign", "traffic cone"]
+    "tags": ["caution", "warning", "danger", "alert", "sign", "traffic cone", "hazard"]
   },
   {
     "id": "checkup",
     "name": "Checkup",
     "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Checkup.svg",
-    "tags": ["checkup", "inspection", "review", "test", "health", "service"]
+    "tags": ["checkup", "inspection", "review", "test", "health", "service", "maintenance"]
   },
   {
     "id": "denting-painting",
     "name": "Denting Painting",
     "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Denting%20Painting.svg",
-    "tags": ["denting", "painting", "repair", "car service", "body shop"]
+    "tags": ["denting", "painting", "repair", "car service", "body shop", "scratch", "garage"]
   },
   {
     "id": "flash",
     "name": "Flash",
     "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Flash.svg",
-    "tags": ["flash", "lightning", "power", "electric", "fast", "energy"]
+    "tags": ["flash", "lightning", "power", "electric", "fast", "energy", "bolt"]
   },
   {
     "id": "insurance",
     "name": "Insurance",
     "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Insurance.svg",
-    "tags": ["insurance", "safety", "protection", "policy", "security", "coverage"]
+    "tags": ["insurance", "safety", "protection", "policy", "security", "coverage", "assurance"]
   },
   {
     "id": "periodic",
     "name": "Periodic",
     "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Periodic.svg",
-    "tags": ["periodic", "calendar", "schedule", "routine", "service", "plan"]
+    "tags": ["periodic", "calendar", "schedule", "routine", "service", "plan", "maintenance"]
   },
   {
     "id": "pollution",
     "name": "Pollution",
     "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Pollution.svg",
-    "tags": ["pollution", "smoke", "emission", "environment", "air", "eco"]
+    "tags": ["pollution", "smoke", "emission", "environment", "air", "eco", "climate"]
   },
   {
     "id": "spinny-logo",
     "name": "Spinny Logo",
     "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Spinny%20logo.svg",
-    "tags": ["spinny", "logo", "brand", "symbol", "identity"]
+    "tags": ["spinny", "logo", "brand", "symbol", "identity", "company"]
   },
   {
     "id": "suspension",
     "name": "Suspension",
     "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Suspension.svg",
-    "tags": ["suspension", "shock absorber", "spring", "wheel", "ride", "comfort"]
+    "tags": ["suspension", "shock absorber", "spring", "wheel", "ride", "comfort", "car part"]
   },
   {
     "id": "toll",
     "name": "Toll",
     "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Toll.svg",
-    "tags": ["toll", "barrier", "highway", "payment", "road", "gate"]
+    "tags": ["toll", "barrier", "highway", "payment", "road", "gate", "entry"]
   },
   {
     "id": "toll2",
     "name": "Toll 2",
     "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Toll2.svg",
-    "tags": ["toll", "car toll", "payment", "road tax", "entry", "fee"]
+    "tags": ["toll", "car toll", "payment", "road tax", "entry", "fee", "highway"]
   },
   {
     "id": "wallet",
     "name": "Wallet",
     "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Wallet.svg",
-    "tags": ["wallet", "money", "payment", "cash", "finance", "purse"]
+    "tags": ["wallet", "money", "payment", "cash", "finance", "purse", "currency"]
   },
   {
     "id": "wallet-money",
     "name": "Wallet Money",
     "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Wallet_money.svg",
-    "tags": ["wallet", "money", "cash", "coins", "finance", "pocket"]
+    "tags": ["wallet", "money", "cash", "coins", "finance", "pocket", "savings"]
   },
   {
     "id": "wheel",
     "name": "Wheel",
     "url": "https://cdn.jsdelivr.net/gh/priyamshrivastava-rgb/Illustration-spinny/images/Wheel.svg",
-    "tags": ["wheel", "tyre", "rim", "car part", "rotate", "motion"]
+    "tags": ["wheel", "tyre", "rim", "car part", "rotate", "motion", "automobile"]
   }
 ]
-
